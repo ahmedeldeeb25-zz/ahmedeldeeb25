@@ -4,7 +4,7 @@
 Software Engineer and AWS Cloud Developer with hands-on experience mainly in Java, Spring, Angular, AWS, and nodeJS, In addition to the experience of working with international companies and clients.
 Seeking to work on Large Scale, Distributed, and Cloud-based applications.
 
-* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Boostrap and Jquery
+* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Boostrap,Jquery and Angular
 * Backend: Java, NodeJS, and Kotlin
 * Cloud Computing: AWS
 * CI/CD: Docker, Jenkins 
